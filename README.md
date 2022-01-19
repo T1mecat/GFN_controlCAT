@@ -19,4 +19,6 @@
 
 Включен английский - отправляет ангийские символы
 
+![NVIDIA_Share_BuY7SJPW4z](https://user-images.githubusercontent.com/58136226/150209145-d0883e7a-d099-4bbf-8af9-a11cdfc6eb91.gif)
+
 Русский - русские
